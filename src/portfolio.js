@@ -71,13 +71,13 @@ const skills = {
         "⚡ Experience of using Python for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        // {
+        //   skillName: "Tensorflow",
+        //   fontAwesomeClassname: "logos-tensorflow",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
         // {
         //   skillName: "Keras",
         //   fontAwesomeClassname: "simple-icons:keras",
