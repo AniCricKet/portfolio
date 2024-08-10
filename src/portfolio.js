@@ -486,7 +486,7 @@ const experience = {
   title: "Experience",
   // subtitle: "Work, Internships, and Volunteering",
   description:
-    "I'm actively on the lookout for opportunities to use my software engineering skills to help companies and non-profit organizations develop websites and market products.",
+    "I have gained valuable industry knowledge through my internships at Fimmtech and Nighthawk Coding Society. These experiences have enhanced my skills in web development, 3D modeling, and educational resource creation, while allowing me to work with innovative technologies. My time in these roles has deepened my understanding of interactive applications and the importance of effective educational tools, preparing me for future challenges in the tech industry. I'm always on the lookout for more opportunities to use my software engineering skills to help companies and non-profit organizations develop websites and market products.",
   header_image_path: "experience.svg",
   sections: [
     // {
@@ -567,7 +567,7 @@ const experience = {
       ],
     },
     {
-      title: "Volunteerships",
+      title: "Volunteering",
       volunteerships: true,
       experiences: [
         {
@@ -590,7 +590,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. I am passionate about harnessing technology to not only pursue my interests but also to create a meaningful impact in the world.",
   avatar_image_path: "projects_image.svg",
 };
 
