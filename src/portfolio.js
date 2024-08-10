@@ -351,6 +351,8 @@ const competitiveSites = {
 };
 
 const degrees = {
+  description:
+    "I am set to graduate from high school in 2025 and plan to pursue a 4-year university education with a focus on data science. My goal is to major in data science with a sports management minor, which aligns with my passion for technology, and will provide a strong foundation for my future career in sports data analytics and beyond.",
   degrees: [
     {
       title: "Del Norte High School",
@@ -486,7 +488,7 @@ const experience = {
   title: "Experience",
   // subtitle: "Work, Internships, and Volunteering",
   description:
-    "I have gained valuable industry knowledge through my internships at Fimmtech and Nighthawk Coding Society. These experiences have enhanced my skills in web development, 3D modeling, and educational resource creation, while allowing me to work with innovative technologies. My time in these roles has deepened my understanding of interactive applications and the importance of effective educational tools, preparing me for future challenges in the tech industry. I'm always on the lookout for more opportunities to use my software engineering skills to help companies and non-profit organizations develop websites and market products.",
+    "I've gained valuable industry knowledge through internships at Fimmtech and Nighthawk Coding Society, enhancing my web development, 3D modeling, and educational resource creation skills. These experiences deepened my understanding of interactive applications and effective educational tools, preparing me for future challenges. I'm eager to use my software engineering skills to help companies and non-profits develop websites and market products",
   header_image_path: "experience.svg",
   sections: [
     // {
