@@ -355,6 +355,18 @@ const degrees = {
     "I am set to graduate from high school in 2025 and plan to pursue a 4-year university education with a focus on data science. My goal is to major in data science with a sports management minor, which aligns with my passion for technology, and will provide a strong foundation for my future career in sports data analytics and beyond.",
   degrees: [
     {
+      title: "Virginia Tech",
+      subtitle: "B.S. in Statistics — Data Science Option",
+      logo_path: "vt_logo.png",
+      alt_name: "VT",
+      duration: "2025 - Present",
+      descriptions: [
+        "⚡ Pursuing a Bachelor of Science in Statistics with a Data Science focus at Virginia Tech.",
+        "⚡ Developing analytical, programming, and modeling skills through coursework in probability, data analytics, and statistical computing."
+      ],
+      website_link: "https://www.vt.edu/",
+    },
+    {
       title: "Del Norte High School",
       subtitle: "High School Degree",
       logo_path: "dnhs_logo.png",
@@ -367,18 +379,7 @@ const degrees = {
       ],
       website_link: "https://delnorte.powayusd.com/",
     },
-    {
-      title: "Virginia Tech",
-      subtitle: "B.S. in Statistics — Data Science Option",
-      logo_path: "dnhs_logo.png",
-      alt_name: "VT",
-      duration: "2025 - Present",
-      descriptions: [
-        "⚡ Pursuing a Bachelor of Science in Statistics with a Data Science focus at Virginia Tech.",
-        "⚡ Developing analytical, programming, and modeling skills through coursework in probability, data analytics, and statistical computing."
-      ],
-      website_link: "https://www.vt.edu/",
-    },
+    
   ],
 };
 
@@ -558,25 +559,25 @@ const experience = {
       internships: true,
       experiences: [
         {
-          title: "Content Creator",
-          company: "Nighthawk Coding Society",
-          company_url: "https://nighthawkcoders.github.io/teacher_portfolio/",
-          logo_path: "ncs_logo.png",
-          duration: "Jun 2024 - Present",
-          location: "San Diego, California",
-          description:
-            "During my internship, I am contributing to Nighthawk Pages 3.0, a GitHub Pages project that integrates Jupyter Notebooks. This platform offers lessons and projects to enhance the teaching of Career Technical Education and AP courses, including Computer Science and Software Engineering (CSSE), Computer Science Principles (CSP), and Computer Science A (CSA). My role involves developing and optimizing educational resources to support future Del Norte students and educators in these fields.",
-        },
-        {
           title: "Graphic Designer",
           company: "Fimmtech",
           company_url: "https://fimmtech.com/",
           logo_path: "fimmtech_logo.jpeg",
-          duration: "Jun 2024 - Present",
+          duration: "Jun 2024 - Sep 2024",
           location: "San Diego, California",
           description:
             "During my internship with Fimmtech, a leading plastic moulding company, I have been actively involved in developing interactive web applications using HTML and Three.js. I focus on creating detailed plastic moulding simulations, enhancing visualizations and user experience through innovative graphic design tools. This experience has allowed me to deepen my understanding of 3D modeling and simulation techniques, while honing my skills in web development and design.",
           color: "#ee3c26",
+        },
+        {
+          title: "Content Creator",
+          company: "Nighthawk Coding Society",
+          company_url: "https://nighthawkcoders.github.io/teacher_portfolio/",
+          logo_path: "ncs_logo.png",
+          duration: "Jun 2024 - Aug 2024",
+          location: "San Diego, California",
+          description:
+            "During my internship, I am contributing to Nighthawk Pages 3.0, a GitHub Pages project that integrates Jupyter Notebooks. This platform offers lessons and projects to enhance the teaching of Career Technical Education and AP courses, including Computer Science and Software Engineering (CSSE), Computer Science Principles (CSP), and Computer Science A (CSA). My role involves developing and optimizing educational resources to support future Del Norte students and educators in these fields.",
         },
       ],
     },
