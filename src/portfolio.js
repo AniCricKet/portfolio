@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Aniket's Portfolio",
   description:
-    "An enthusiastic student and full-stack developer with a deep interest for data science and machine learning, driven by a passion to make a difference through technology.",
+    "An enthusiastic student and full-stack developer with a strong interest in statistics and data science, passionate about using technology to make an impact. Aspiring sports data scientist, eager to apply data analytics to enhance athletic performance and fan engagement.",
   og: {
     title: "Aniket Chakradeo Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AniketChakradeo",
   nickname: "AniCricket",
   subTitle:
-  "An enthusiastic high-schooler and full-stack developer with a deep interest for data science and machine learning, driven by a passion to make a difference through technology.",
+  "An enthusiastic student and full-stack developer with a strong interest in statistics and data science, passionate about using technology to make an impact. Aspiring sports data scientist, eager to apply data analytics to enhance athletic performance and fan engagement.",
   portfolio_repository: "https://github.com/AniCricKet/portfolio",
   githubProfile: "https://github.com/AniCricKet",
 };
