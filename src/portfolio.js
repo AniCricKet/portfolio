@@ -359,13 +359,25 @@ const degrees = {
       subtitle: "High School Degree",
       logo_path: "dnhs_logo.png",
       alt_name: "DNHS",
-      duration: "2021 - Present",
+      duration: "2021 - 2025",
       descriptions: [
-        "⚡ Currently getting high school diploma at Del Norte High School, graduating with a total of 10 AP classes:",
+        "⚡ Attained a high school diploma at Del Norte High School, graduating with a total of 10 AP classes:",
         " AP Calculus AB, AP Calculus BC, AP Computer Science Principles, AP Computer Science A, AP English Language and Composition, AP English Literature and Composition, AP Environmental Science, AP Physics C: Mechanics, AP Statistics, AP United States Government and Politics",
         "⚡ Completed a computer science program, gaining proficiency in full-stack development with AWS, SQL, Git, and VSCode. Excelled in AP Computer Science courses and Data Structures, mastering frontend tools like SASS and HTML, and developing backends with Flask and SpringBoot. Skilled in collaborative tools like GitHub and VSCode LiveShare, with experience in agile methodologies. Regularly presented technical concepts at school events, demonstrating strong communication skills and a commitment to an inclusive learning environment."
       ],
       website_link: "https://delnorte.powayusd.com/",
+    },
+    {
+      title: "Virginia Tech",
+      subtitle: "B.S. in Statistics — Data Science Option",
+      logo_path: "dnhs_logo.png",
+      alt_name: "VT",
+      duration: "2025 - Present",
+      descriptions: [
+        "⚡ Pursuing a Bachelor of Science in Statistics with a Data Science focus at Virginia Tech.",
+        "⚡ Developing analytical, programming, and modeling skills through coursework in probability, data analytics, and statistical computing."
+      ],
+      website_link: "https://www.vt.edu/",
     },
   ],
 };
