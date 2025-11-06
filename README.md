@@ -23,14 +23,6 @@
 </p>
 <p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
-<p align="center"> 
-    <a href="https://ashutosh1919.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
-  </a>
-</p>
-
-:star: Star us on GitHub — it helps!
-
 # Sections 📚
 
 ✔️ Summary and About me\
