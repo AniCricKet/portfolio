@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Aniket's Portfolio",
   description:
-    "An enthusiastic high-schooler and full-stack developer with a deep interest for data science and machine learning, driven by a passion to make a difference through technology.",
+    "An enthusiastic student and full-stack developer with a deep interest for data science and machine learning, driven by a passion to make a difference through technology.",
   og: {
     title: "Aniket Chakradeo Portfolio",
     type: "website",
