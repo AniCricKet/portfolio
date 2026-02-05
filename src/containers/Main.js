@@ -9,6 +9,7 @@ import Experience from "../pages/experience/Experience";
 import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
+import VTCCProject from "../pages/projects/vtcc-tableau";
 
 export default class Main extends Component {
   render() {
@@ -65,6 +66,12 @@ export default class Main extends Component {
           <Route
             path="/projects"
             render={(props) => <Projects {...props} theme={this.props.theme} />}
+          />
+          <Route
+            path="/vtcc-tableau"
+            render={(props) => (
+            <VTCCProject {...props} theme={this.props.theme} />
+            )}
           />
           <Route
             path="*"
